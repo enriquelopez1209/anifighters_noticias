@@ -1,0 +1,13 @@
+[06-Dec-2017 01:07:37 America/Mexico_City] PHP Notice:  Undefined index: user in /home/anifight/public_html/admin/panel.php on line 2
+[06-Dec-2017 01:08:27 America/Mexico_City] PHP Notice:  Undefined index: user in /home/anifight/public_html/admin/panel.php on line 2
+[07-Dec-2017 02:58:27 America/Mexico_City] PHP Notice:  Undefined index: user in /home/anifight/public_html/admin/panel.php on line 2
+[07-Dec-2017 02:59:25 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'kike'@'localhost' (using password: YES) in /home/anifight/public_html/head.php on line 15
+[07-Dec-2017 08:00:14 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'kike'@'localhost' (using password: YES) in /home2/anifight/public_html/head.php on line 15
+[07-Dec-2017 08:39:27 America/Mexico_City] PHP Notice:  Undefined index: user in /home2/anifight/public_html/admin/panel.php on line 2
+[07-Dec-2017 08:39:33 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'kike'@'localhost' (using password: YES) in /home2/anifight/public_html/head.php on line 15
+[07-Dec-2017 08:39:46 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'kike'@'localhost' (using password: YES) in /home2/anifight/public_html/head.php on line 15
+[07-Dec-2017 11:39:57 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'kike'@'localhost' (using password: YES) in /home2/anifight/public_html/head.php on line 15
+[07-Dec-2017 11:40:35 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'kike'@'localhost' (using password: YES) in /home2/anifight/public_html/head.php on line 15
+[07-Dec-2017 11:40:41 America/Mexico_City] PHP Notice:  Undefined index: user in /home2/anifight/public_html/admin/panel.php on line 2
+[07-Dec-2017 11:40:58 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'kike'@'localhost' (using password: YES) in /home2/anifight/public_html/head.php on line 15
+[08-Dec-2017 00:33:29 America/Mexico_City] PHP Notice:  Undefined index: user in /home2/anifight/public_html/admin/panel.php on line 2
