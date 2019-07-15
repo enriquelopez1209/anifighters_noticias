@@ -1,0 +1,216 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	}
+body, html{
+	margin:0;
+	background:url(../img/Back_ggxxr_momentarylife.png) center fixed;
+	background-size:cover;
+}
+div#header{
+	position: absolute;
+	width: 100%;
+	height: 140px;
+	overflow:hidden;
+	left:0;
+	top:0;
+	}
+img#logo{
+	position:relative;
+	float:left;
+	width:250px;
+	left:5px;
+	}
+div#fondoheader{
+	position:relative;
+	width:100%;
+	background:url(../img/bgtransp3.png) repeat-y, url(../img/fighting_games_unite_by_jinxonhog.jpg) no-repeat;
+	overflow:hidden;
+	}
+
+div#nav {
+	position: absolute;
+	width:100%;
+	top:140px;
+	left:0;
+	height:40px;
+    background:url(../img/nav.jpg);
+	background-repeat:repeat-x;
+	}
+span.links{
+	position:0 auto;
+	text-align:center;
+	text-transform:uppercase;
+	height:50%;
+	display:block;
+	line-height:40px;
+	font-size:1.3em;
+	}
+span.links a{
+	margin:0 20px;
+	text-decoration:none;
+	color:#B8B8B8;
+	font-family: 'Play', sans-serif;
+	font-weight:bold;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+
+	}	
+span.links a:hover{
+	color:#FFFFFF;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+	}
+	
+span.fecha{
+	position:relative;
+	right:5px;
+	float:right;
+	color:#FFFFFF;
+	line-height:0;
+	}	
+#container{
+	position:absolute;
+	width:100%;
+	height:400%;
+	}	
+#der{
+	position:relative;
+	width:230px;
+	top:0;
+	right:0;
+	}	
+#contenido{
+	position:absolute;
+	height:auto;
+	top:180px;
+	left:330px;
+	right:232px;
+	width:55%;
+		}
+.news {
+	position:relative;
+	float:left;
+	width:100%;
+	height:550px;
+	margin:5px;
+	color:#FFFFFF;
+	background:url(../img/fondosidebar.png) repeat;
+	}	
+#relleno{
+	margin:15px;
+	}
+#titulo{
+	font-size:3em;
+	font-weight:bold;
+	}
+#titulo a{
+	text-decoration:none;
+	color:#FFFFFF;
+	}	
+#titulo a:hover{
+	text-decoration:underline;
+	}	
+span.imagen img{
+	float:left;
+	}	
+p.texto{
+	font-size:1.5em;
+	overflow:hidden;
+	display:block;
+	text-align:justify;
+	text-indent:20px;	
+	}	
+.detallado{
+	position:relative;
+	width:100%;
+	height:100%;
+	color:#FFFFFF;
+	background:url(../img/fondosidebar.png) repeat;
+	}	
+#cajanews {
+	position:absolute;
+	width:100%;
+	height:260%;
+	margin:0;
+	}	
+#newscont{
+	position:absolute;
+	height:85%;
+	top:170px;
+	left:330px;
+	right:232px;
+	width:55%;
+		}
+span.imgnews img{
+	position:relative;
+	width:75%;
+	margin:0 auto;
+		}	
+div#sidebar{
+	position:absolute;
+	top:185px;
+	left:5px;
+	width:320px;
+	height:80%;
+	}
+/*ul#sidemenu {
+	}*/
+#sidebar li{
+	position:relative;
+	text-transform:uppercase;
+	font-family: 'Play', sans-serif;
+	font-size:1em;
+	list-style:none;
+	top:35px;
+	left:25px;
+	}
+div#sidebar a{
+	color:#B9B9B9;
+	text-decoration:none;
+	-webkit-transition: all 0.9s ease;
+	-moz-transition: all 0.9s ease;
+	-ms-transition: all 0.9s ease;
+	-o-transition: all 0.9s ease;
+	transition: all 0.9s ease;
+
+	}
+div#sidebar a:hover{
+	color:#FFFFFF;
+	-webkit-transition: all 0.9s ease;
+	-moz-transition: all 0.9s ease;
+	-ms-transition: all 0.9s ease;
+	-o-transition: all 0.9s ease;
+	transition: all 0.9s ease;
+	}
+		
+div#categorias {
+	position:relative;
+	background:url(../img/fondosidebar.png);
+	background-repeat:repeat;
+	}
+	
+#footer{
+	position:absolute;
+	width:100%;
+	height:50px;
+	bottom:0;
+	left:0;
+	background:url(../img/bgfooter.jpg) repeat-x;
+	}
+#cr {
+	position:relative;
+	left:0;
+	margin-left:5px;
+	color:#fff;
+	font-family: 'Play', sans-serif;
+	line-height:50px;
+	font-size:1em;
+	}	
+
